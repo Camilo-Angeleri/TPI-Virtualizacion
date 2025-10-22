@@ -32,6 +32,6 @@ Este proyecto tiene como objetivo documentar el proceso de virtualización utili
 - Una carpeta conteniendo las capturas tomadas a la hora de utilizar la maquina huesped.
 - Una carpeta con el archivo .py que contiene el código creado dentro de Ubuntu.
 - Una carpeta con el archivo PDF documentando el trabajo práctico.
-- Un video explicativo (Link: )
+- Un video explicativo (Link: https://youtu.be/xRocg_QW0Yc)
 - Este README
 
