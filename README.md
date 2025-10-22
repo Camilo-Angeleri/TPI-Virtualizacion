@@ -29,9 +29,9 @@ Este proyecto tiene como objetivo documentar el proceso de virtualización utili
 ###  <p>Estructura del Repositorio</p>
 
 - Una carpeta conteniendo las capturas tomadas a la hora de utilizar Virtual Box
-- Una segunda carpeta conteniendo las capturas tomadas a la hora de utilizar la maquina huesped.
-- El archivo .py que contiene el código creado dentro de Ubuntu.
-- Un archivo pdf documentando el trabajo práctico.
+- Una carpeta conteniendo las capturas tomadas a la hora de utilizar la maquina huesped.
+- Una carpeta con el archivo .py que contiene el código creado dentro de Ubuntu.
+- Una carpeta con el archivo PDF documentando el trabajo práctico.
 - Un video explicativo (Link: )
 - Este README
 
